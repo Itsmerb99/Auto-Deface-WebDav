@@ -9,9 +9,9 @@ except ImportError:
 
 banner = """
 =============================
-Author  : ChuckyReply
-Contact : 089503658043
-Mail    : chuckyreply@gmail.com
+Author  : RazzorBack
+Contact : https://t.me/local_heart
+Mail    : localheart@gmail.com
 =============================
 """
 
